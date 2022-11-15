@@ -1,12 +1,5 @@
 #!/bin/env python3
 
-#input_box = tk.Text()
-#input_box.pack()
-#output_box = tk.Text()
-#output_box.pack()
-#
-#output_box.insert("0.0", input_box.get("1.0", tk.END))
-
 import tkinter as tk
 import tkinter.font as tk_font
 
